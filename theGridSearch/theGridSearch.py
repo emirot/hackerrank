@@ -34,11 +34,11 @@ def findArrayInArr(arr1,y1,x1,arr2,y2,x2):
                                 break
                             xx += 1
                             xx1 += 1
-
                         #print("fisrt")
                         yy +=1
                         yy1+=1
-
+                else:
+                    break;
             j += 1
         i += 1
    # print("a",a)
