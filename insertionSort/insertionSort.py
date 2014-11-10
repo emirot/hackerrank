@@ -11,15 +11,18 @@ def insertionSort(tab):
         while j > 0 and (tmp < tab[j-1]):
             tab[j] = tab[j-1]
             j -= 1
+            printArar(tab)
         tab[j] = tmp
-        printArar(tab)
         i += 1
+    printArar(tab)
     return tab
 
 def printArar(arr):
     i = 0
     while i < len(arr):
-        sys.stdout.write(arr[i]+" ")
+        sys.stdout.write(str(arr[i]))
+        if(i!=len(arr)):
+            sys.stdout.write(" ")
         i += 1
     sys.stdout.write("\n")
 
@@ -28,7 +31,7 @@ def getInput():
     arr = []
     nb = int(input())
     line = input()
-    arr = line.split(' ')
+    arr = list(map(int,line.split()))
     return arr
 
 if __name__ == '__main__':
