@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6527f815-97c6-4539-9e55-fb272d6915ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arrayAndSorting/countingSort2/countingSort2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/arrayAndSorting/countingSort3/countingSort3.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hackerrank.iws" />
@@ -30,17 +30,17 @@
         <entry file="file://$PROJECT_DIR$/arrayAndSorting/countingSort1/countingSort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-              <caret line="9" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="countingSort2.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/arrayAndSorting/countingSort2/countingSort2.py">
+      <file leaf-file-name="countingSort3.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/arrayAndSorting/countingSort3/countingSort3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31073445" vertical-offset="120" max-vertical-offset="750">
-              <caret line="19" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.7518382" vertical-offset="101" max-vertical-offset="720">
+              <caret line="34" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -67,6 +67,7 @@
         <option value="$PROJECT_DIR$/arrayAndSorting/correctnessAndTheLoopInvariant/correctnessAndTheLoopInvariant.py" />
         <option value="$PROJECT_DIR$/arrayAndSorting/findTheMedian/findTheMedian.py" />
         <option value="$PROJECT_DIR$/arrayAndSorting/countingSort2/countingSort2.py" />
+        <option value="$PROJECT_DIR$/arrayAndSorting/countingSort3/countingSort3.py" />
       </list>
     </option>
   </component>
@@ -146,7 +147,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="countingSort2" />
+              <option name="myItemId" value="countingSort3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -164,7 +165,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="countingSort1" />
+              <option name="myItemId" value="countingSort2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -182,25 +183,7 @@
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.countingSort2">
-    <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ChalengeExample" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hackerrank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ChalengeExample/test.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.countingSort3">
     <configuration default="false" name="introToTutorialChallenges" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -268,6 +251,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hackerrank" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayAndSorting/countingSort2/countingSort2.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="countingSort3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/arrayAndSorting/countingSort3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hackerrank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayAndSorting/countingSort3/countingSort3.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -395,19 +396,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.introToTutorialChallenges" />
-      <item index="2" class="java.lang.String" itemvalue="Python.correctnessAndTheLoopInvariant" />
-      <item index="3" class="java.lang.String" itemvalue="Python.findTheMedian" />
-      <item index="4" class="java.lang.String" itemvalue="Python.countingSort2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.introToTutorialChallenges" />
+      <item index="1" class="java.lang.String" itemvalue="Python.correctnessAndTheLoopInvariant" />
+      <item index="2" class="java.lang.String" itemvalue="Python.findTheMedian" />
+      <item index="3" class="java.lang.String" itemvalue="Python.countingSort2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.countingSort3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.countingSort2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.findTheMedian" />
-        <item index="2" class="java.lang.String" itemvalue="Python.correctnessAndTheLoopInvariant" />
-        <item index="3" class="java.lang.String" itemvalue="Python.introToTutorialChallenges" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test" />
+        <item index="0" class="java.lang.String" itemvalue="Python.countingSort3" />
+        <item index="1" class="java.lang.String" itemvalue="Python.countingSort2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.findTheMedian" />
+        <item index="3" class="java.lang.String" itemvalue="Python.correctnessAndTheLoopInvariant" />
+        <item index="4" class="java.lang.String" itemvalue="Python.introToTutorialChallenges" />
       </list>
     </recent_temporary>
   </component>
@@ -577,18 +578,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arrayAndSorting/countingSort1/countingSort.py">
+    <entry file="file://$PROJECT_DIR$/arrayAndSorting/countingSort2/countingSort2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-          <caret line="9" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="93" max-vertical-offset="750">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arrayAndSorting/countingSort2/countingSort2.py">
+    <entry file="file://$PROJECT_DIR$/arrayAndSorting/countingSort1/countingSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31073445" vertical-offset="120" max-vertical-offset="750">
-          <caret line="19" column="12" selection-start-line="0" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrayAndSorting/countingSort3/countingSort3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7518382" vertical-offset="101" max-vertical-offset="720">
+          <caret line="34" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>
