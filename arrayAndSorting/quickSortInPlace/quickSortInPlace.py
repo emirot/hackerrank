@@ -14,6 +14,7 @@ def swapIndexes(arr, index1, index2):
 
 def quickSortInPlace(arr):
     greaterPassed = False
+    greaterPosition = 0
     pivot = arr[len(arr)-1]
     print("pivot:",pivot)
 
@@ -21,6 +22,7 @@ def quickSortInPlace(arr):
         if a > pivot:
             greaterPassed = True
             print(greaterPassed)
+            greaterPosition = i
         if a < pivot and greaterPassed == True:
             j = i
             print("LALAL")
@@ -29,7 +31,7 @@ def quickSortInPlace(arr):
                 j -= 1
             print("JJ",j)
             arr = swapIndexes(arr,i,j)
-        print(arr)
+    print(arr)
 
 
 if __name__ == '__main__':
