@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6527f815-97c6-4539-9e55-fb272d6915ff" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ChalengeExample/convertBase/convertBase.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ChalengeExample/graph/graph.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ChalengeExample/insertionSort.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ChalengeExample/mergeSort/mergeSort.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ChalengeExample/quickSort/quickSort.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ChalengeExample/selectionSort/selectionSort.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ChalengeExample/stringCompression/stringCompression.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrayAndSorting/IntrotoTutorialChallenges/introToTutorialChallenges.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrayAndSorting/QuickSort1/QuickSort1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrayAndSorting/correctnessAndTheLoopInvariant/correctnessAndTheLoopInvariant.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrayAndSorting/countingSort1/countingSort.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrayAndSorting/countingSort2/countingSort2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrayAndSorting/countingSort3/countingSort3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrayAndSorting/findTheMedian/findTheMedian.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrayAndSorting/insertionSort/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrayAndSorting/insertionSort/input" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrayAndSorting/insertionSort/insertionSort.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrayAndSorting/insertionSort/output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrayAndSorting/markAndToys/markAndToy.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrayAndSorting/quickSort2/quickSort2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/arrayAndSorting/quickSortInPlace/quickSortInPlace.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/combinatorics/handShake/handShake.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/combinatorics/minimumDraw/minimumDraw.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/geometry/findPoint/findPoint.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/geometry/sherlockAndPlanes/input" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/geometry/sherlockAndPlanes/output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/geometry/sherlockAndPlanes/sherlockAndPlanes.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/miscellaneous/regex/findHackerRank.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/miscellaneous/regex/hackerTweet.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hackerrank.iws" />
@@ -51,7 +26,28 @@
     <favorites_list name="hackerrank" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="findHackerRank.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/miscellaneous/regex/findHackerRank.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588">
+              <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hackerTweet.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/miscellaneous/regex/hackerTweet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+              <caret line="9" column="54" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -86,6 +82,8 @@
         <option value="$PROJECT_DIR$/arrayAndSorting/quickSort2/quickSort2.py" />
         <option value="$PROJECT_DIR$/arrayAndSorting/quickSortInPlace/test.py" />
         <option value="$PROJECT_DIR$/arrayAndSorting/quickSortInPlace/quickSortInPlace.py" />
+        <option value="$PROJECT_DIR$/miscellaneous/regex/hackerTweet.py" />
+        <option value="$PROJECT_DIR$/miscellaneous/regex/findHackerRank.py" />
       </list>
     </option>
   </component>
@@ -136,6 +134,38 @@
               <option name="myItemId" value="hackerrank" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miscellaneous" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="regex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackerrank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackerrank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="miscellaneous" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackerrank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hackerrank" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -158,7 +188,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.quickSortInPlace">
+  <component name="RunManager" selected="Python.findHackerRank">
     <configuration default="false" name="quickSortInPlace" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,42 +202,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hackerrank" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayAndSorting/quickSortInPlace/quickSortInPlace.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="sherlockAndAnagrams" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/contestW13" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hackerrank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contestW13/sherlockAndAnagrams.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="flippingBits" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/warmup/flippingBits" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hackerrank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/warmup/flippingBits/flippingBits.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -244,6 +238,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hackerrank" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/arrayAndSorting/quickSortInPlace/test.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="hackerTweet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/miscellaneous/regex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hackerrank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/miscellaneous/regex/hackerTweet.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="findHackerRank" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/miscellaneous/regex" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hackerrank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/miscellaneous/regex/findHackerRank.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -372,18 +402,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.quickSortInPlace" />
-      <item index="1" class="java.lang.String" itemvalue="Python.sherlockAndAnagrams" />
-      <item index="2" class="java.lang.String" itemvalue="Python.flippingBits" />
-      <item index="3" class="java.lang.String" itemvalue="Python.insertionSortAdvancedAnalysis" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test" />
+      <item index="1" class="java.lang.String" itemvalue="Python.insertionSortAdvancedAnalysis" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test" />
+      <item index="3" class="java.lang.String" itemvalue="Python.hackerTweet" />
+      <item index="4" class="java.lang.String" itemvalue="Python.findHackerRank" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.quickSortInPlace" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.insertionSortAdvancedAnalysis" />
-        <item index="3" class="java.lang.String" itemvalue="Python.flippingBits" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sherlockAndAnagrams" />
+        <item index="0" class="java.lang.String" itemvalue="Python.findHackerRank" />
+        <item index="1" class="java.lang.String" itemvalue="Python.hackerTweet" />
+        <item index="2" class="java.lang.String" itemvalue="Python.quickSortInPlace" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test" />
+        <item index="4" class="java.lang.String" itemvalue="Python.insertionSortAdvancedAnalysis" />
       </list>
     </recent_temporary>
   </component>
@@ -442,14 +472,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/contestW13/sherlockAndAnagrams.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="492" max-vertical-offset="1080">
-          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.4/lib/python3.4/heapq.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.4117647" vertical-offset="2189" max-vertical-offset="7230">
@@ -457,33 +479,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contestW13/TaumAndBDay.py">
+    <entry file="file://$PROJECT_DIR$/miscellaneous/regex/hackerTweet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40816328" vertical-offset="0" max-vertical-offset="588">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/warmup/flippingBits/flippingBits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61734694" vertical-offset="147" max-vertical-offset="795">
-          <caret line="34" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="47" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contestW13/sherlockAndAnagrams.py">
+    <entry file="file://$PROJECT_DIR$/miscellaneous/regex/findHackerRank.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2244898" vertical-offset="255" max-vertical-offset="1080">
-          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/warmup/acmpIcpcTeam/acmpIcpcTeam.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6377551" vertical-offset="0" max-vertical-offset="690">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588">
+          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
           <folding />
         </state>
       </provider>
