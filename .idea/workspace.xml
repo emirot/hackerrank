@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6527f815-97c6-4539-9e55-fb272d6915ff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/implementation/TaumAndB'Day/TaumAndB'Day.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contest/contestW13/TaumAndBDay.py" afterPath="$PROJECT_DIR$/contest/contestW13/TaumAndBDay.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/greedy/priyankaAndToys/test/input1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/greedy/priyankaAndToys/priyankaAndToys.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hackerrank.iws" />
@@ -67,21 +67,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaumAndB'Day.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="TaumAndB'Day.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algo/implementation/TaumAndB'Day/TaumAndB'Day.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.018703243" vertical-offset="0" max-vertical-offset="802">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="28" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaumAndBDay.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contest/contestW13/TaumAndBDay.py">
+      <file leaf-file-name="priyankaAndToys.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algo/greedy/priyankaAndToys/priyankaAndToys.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.6106195" vertical-offset="0" max-vertical-offset="565">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -102,16 +102,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="graphTraversal2.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algo/ChalengeExample/graphTraversal/graphTraversal2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="345">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -166,6 +156,9 @@
         <option value="$PROJECT_DIR$/algo/warmup/angryProfessor/angryProfessor.py" />
         <option value="$PROJECT_DIR$/contest/contestW13/TaumAndBDay.py" />
         <option value="$PROJECT_DIR$/algo/implementation/TaumAndB'Day/TaumAndB'Day.py" />
+        <option value="$PROJECT_DIR$/algo/greedy/priyankaAndToys/test/input1" />
+        <option value="$PROJECT_DIR$/algo/greedy/priyankaAndToys/test/output1" />
+        <option value="$PROJECT_DIR$/algo/greedy/priyankaAndToys/priyankaAndToys.py" />
       </list>
     </option>
   </component>
@@ -264,11 +257,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="implementation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TaumAndB'Day" />
+              <option name="myItemId" value="greedy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -297,25 +286,7 @@
       <recent name="$PROJECT_DIR$/algo/ChalengeExample" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.angryProfessor">
-    <configuration default="false" name="evenTree" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/graphTheory" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="hackerrank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/graphTheory/evenTree.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.priyankaAndToys">
     <configuration default="false" name="listComprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -383,6 +354,24 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="hackerrank" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/warmup/angryProfessor/angryProfessor.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="priyankaAndToys" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/greedy/priyankaAndToys" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hackerrank" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/greedy/priyankaAndToys/priyankaAndToys.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -510,19 +499,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.evenTree" />
-      <item index="1" class="java.lang.String" itemvalue="Python.listComprehension" />
-      <item index="2" class="java.lang.String" itemvalue="Python.validatingThePhoneNumber" />
-      <item index="3" class="java.lang.String" itemvalue="Python.twoStrings" />
-      <item index="4" class="java.lang.String" itemvalue="Python.angryProfessor" />
+      <item index="0" class="java.lang.String" itemvalue="Python.listComprehension" />
+      <item index="1" class="java.lang.String" itemvalue="Python.validatingThePhoneNumber" />
+      <item index="2" class="java.lang.String" itemvalue="Python.twoStrings" />
+      <item index="3" class="java.lang.String" itemvalue="Python.angryProfessor" />
+      <item index="4" class="java.lang.String" itemvalue="Python.priyankaAndToys" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.angryProfessor" />
-        <item index="1" class="java.lang.String" itemvalue="Python.twoStrings" />
-        <item index="2" class="java.lang.String" itemvalue="Python.validatingThePhoneNumber" />
-        <item index="3" class="java.lang.String" itemvalue="Python.listComprehension" />
-        <item index="4" class="java.lang.String" itemvalue="Python.evenTree" />
+        <item index="0" class="java.lang.String" itemvalue="Python.priyankaAndToys" />
+        <item index="1" class="java.lang.String" itemvalue="Python.angryProfessor" />
+        <item index="2" class="java.lang.String" itemvalue="Python.twoStrings" />
+        <item index="3" class="java.lang.String" itemvalue="Python.validatingThePhoneNumber" />
+        <item index="4" class="java.lang.String" itemvalue="Python.listComprehension" />
       </list>
     </recent_temporary>
   </component>
@@ -540,17 +529,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24097222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24097222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2778429" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2778429" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -583,22 +572,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algo/ChalengeExample/graph/graph.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
-          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/ChalengeExample/graphTraversal/graphTraversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="360">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/algo/graphTheory/evenTree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="765">
@@ -953,18 +926,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contest/contestW13/TaumAndBDay.py">
+    <entry file="file://$PROJECT_DIR$/algo/implementation/TaumAndB'Day/TaumAndB'Day.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="28" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algo/implementation/TaumAndB'Day/TaumAndB'Day.py">
+    <entry file="file://$PROJECT_DIR$/algo/greedy/priyankaAndToys/test/input1">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.018703243" vertical-offset="0" max-vertical-offset="802">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.026548672" vertical-offset="0" max-vertical-offset="565">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/greedy/priyankaAndToys/test/output1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="565">
+          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/greedy/priyankaAndToys/priyankaAndToys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6106195" vertical-offset="0" max-vertical-offset="565">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
