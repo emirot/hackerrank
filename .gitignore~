@@ -9,6 +9,8 @@ __pycache__/
 #editore
 .idea
 
+#tmp file
+.*~
 
 # C extensions
 *.so
