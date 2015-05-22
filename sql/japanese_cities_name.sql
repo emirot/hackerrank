@@ -1,0 +1,1 @@
+SELECT Name from City where CountryCode='JPN';
