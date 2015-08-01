@@ -9,4 +9,4 @@ def extra_factorial(n):
 
 if __name__ == '__main__':
     n =  int(input())
-    print(extra_factorial(n))
+    print(extra_factorial(n)

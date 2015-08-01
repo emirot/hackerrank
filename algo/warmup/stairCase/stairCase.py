@@ -14,7 +14,7 @@ def fill_line(nb_p, nb_s):
 def print_(arr):
     for i in arr:
         for a in i:
-         print(a,end='')
+         print(a, end='')
         print()
 
 if __name__ == '__main__':
