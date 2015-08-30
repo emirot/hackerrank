@@ -1,0 +1,2 @@
+
+SELECT DISTINCT(CITY) FROM STATION WHERE CITY REGEXP '^[^A|^E|^I|^O|^U]' AND CITY REGEXP '[^A|^E|^I|^O|^U]$'  order by city asc;
