@@ -1,0 +1,31 @@
+def ransom_note(magazine, rasom):
+    mag = {}
+    for e in magazine:
+        if e in mag:
+            mag[e] = mag[e] + 1
+        else:
+            mag[e] = 1
+    good = True
+
+    for e in rasom:
+        if e in mag:
+            if mag[e] >= 0:
+                mag[e] = mag[e] - 1 
+            else:
+                good = False
+        else:
+            return False
+
+    if good is False:
+        return False
+    return True
+
+m, n = map(int, input().strip().split(' '))
+magazine = input().strip().split(' ')
+ransom = input().strip().split(' ')
+answer = ransom_note(magazine, ransom)
+if(answer):
+    print("Yes")
+else:
+    print("No")
+    
