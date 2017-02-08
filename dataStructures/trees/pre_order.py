@@ -7,7 +7,7 @@ self.data (the value of the node)
 
 def preOrder(root):
     if root:
-        print(root.data)
+        print(root.data, end=" ")
         preOrder(root.left)
         preOrder(root.right)
 
