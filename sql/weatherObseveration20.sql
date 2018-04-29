@@ -1,0 +1,20 @@
+/*
+Enter your query here.
+*/
+SET @myvar :=0;
+
+SET @myvar := FLOOR((SELECT COUNT(*) FROM STATION)/2);
+ 
+-- SET @myvar :=10;
+
+-- SELECT ROUND(LAT_N,2) as LAT_N
+-- FROM STATION 
+-- ORDER BY LAT_N
+-- LIMIT ),1
+-- ;
+
+PREPARE STMT FROM '
+SELECT ROUND(LAT_N,4) as LAT_N
+FROM STATION 
+ORDER BY LAT_N LIMIT ?, 1';
+EXECUTE STMT USING @myvar;
