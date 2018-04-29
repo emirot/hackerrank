@@ -1,0 +1,30 @@
+
+SELECT N as id, 'Root'
+FROM BST
+WHERE P is NULL
+UNION
+SELECT inn.P as id, 'Inner'
+FROM (
+    SELECT P, COUNT(N)
+    FROM BST
+    where P is not NULL and P not IN (SELECT N FROM BST where P is null)
+    GROUP BY P
+    
+) as inn
+UNION 
+SELECT DISTINCT N as id, 'Leaf'
+FROM BST
+LEFT JOIN (
+    SELECT P, COUNT(N)
+    FROM BST
+    WHERE P is not NULL
+    GROUP BY P
+ ) l
+ON BST.N = l.P 
+WHERE l.P is NULL
+ORDER BY id;
+
+
+
+
+
